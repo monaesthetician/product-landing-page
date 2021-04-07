@@ -1,0 +1,114 @@
+body {
+    background-color: darkgreen;
+}
+
+a {
+    width: 20%;
+    display: inline-block;
+    font-size: 20px;
+    text-align: center;
+    margin: 10px 0;
+    padding-right: 5px;
+    color: #fff;
+}
+
+a ._blank {
+    justify-content: center; 
+}
+
+h1 {
+    margin-top: 50px;
+    margin-bottom: 0;
+    display: inline;
+
+}
+h2.heading {
+    background-color:#bfcba8;
+    color: #464f41;
+    text-align: center;
+    margin: 0px;
+    padding: 50px;
+}
+
+#header-img {
+    width: 100%;
+    height: auto;
+}
+
+.Banner {
+    text-align: center;
+    background-color:#bdd2b6;
+    padding: 40px;
+}
+
+#commercial{
+    background-color: #bfcba8;
+    margin-top:0px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.bag {
+    margin-left: 200px;
+
+}
+
+.main-nav {
+    color: #fff;
+}
+
+
+p.best-sellers {
+    background-color: #2f5d62;
+    font-size: 40px;
+    color: #fff;
+    font-weight: bold;
+    margin-top: 0;
+    text-align: center;
+    padding: 40px;
+    margin-bottom: 0px;
+}
+
+.best-seller-products {
+    background-color: #bfcba8;
+    margin-top: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.card-body {
+    color: #2f5d62;
+    text-align: center;
+    
+}
+
+.See-all {
+    font-size: 30px;
+    padding: 12px 25px;
+    border-radius: 30%;
+    margin: 0 620px; 
+}
+
+figure{
+     text-align: center;
+
+}
+.name-tag {
+    border: 10px solid #464f41;
+    display: inline-block; 
+    padding: 25px;
+    font-size: 20px;
+}
+
+nav {
+    background-color: #5b8a72;
+    padding: 5px;
+
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    
+}
